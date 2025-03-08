@@ -1,0 +1,11 @@
+{
+  "name": "kittycrypt",
+  "version": "1.0.0",
+  "description": "a lightweight, compact, and not secure implementation of custom encryption (asymmetric)",
+  "main": "source/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

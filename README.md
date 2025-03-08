@@ -1,2 +1,1 @@
-# KittyCrypt
-a lightweight, compact, and not secure implementation of custom encryption (asymmetric)
+A (VERY) simple and bare-bones implementation of the Vigenère cipher that I needed for a module.
